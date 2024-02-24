@@ -1,0 +1,59 @@
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.exe
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.deps.json
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.runtimeconfig.json
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.dll
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.pdb
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfoInputs.cache
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfo.cs
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.dll
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\refint\calculatorlProject.dll
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.pdb
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.genruntimeconfig.cache
+C:\Users\PC01\Desktop\STEP Homework\Homework1\calculatorlProject\calculatorlProject\obj\Debug\net6.0\ref\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.exe
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.deps.json
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.runtimeconfig.json
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.AssemblyReference.cache
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfoInputs.cache
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfo.cs
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.CoreCompileInputs.cache
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\refint\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.genruntimeconfig.cache
+C:\Users\a.arabuli\Desktop\elene\ITSTEP\calculatorlProject\calculatorlProject\obj\Debug\net6.0\ref\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.exe
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.deps.json
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.runtimeconfig.json
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.AssemblyReference.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfoInputs.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfo.cs
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.CoreCompileInputs.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\refint\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.genruntimeconfig.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\calculatorlProject\calculatorlProject\obj\Debug\net6.0\ref\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.exe
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.deps.json
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.runtimeconfig.json
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\bin\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.AssemblyReference.cache
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfoInputs.cache
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.AssemblyInfo.cs
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.csproj.CoreCompileInputs.cache
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\refint\calculatorlProject.dll
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.pdb
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\calculatorlProject.genruntimeconfig.cache
+C:\Users\a.arabuli\Desktop\ItStepProjects\calculatorlProject\calculatorlProject\obj\Debug\net6.0\ref\calculatorlProject.dll

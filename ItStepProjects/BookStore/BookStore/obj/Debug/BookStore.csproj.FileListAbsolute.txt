@@ -1,0 +1,8 @@
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\a.arabuli\Desktop\otar\ItStep\BookStore\BookStore\obj\Debug\BookStore.pdb
